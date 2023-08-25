@@ -1,6 +1,7 @@
 {
 	"name": "craftlist.pl",
 	"version": "0.0.1",
+	"packageManager": "pnpm",
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
