@@ -4,7 +4,7 @@
 
 /*url("bg.svg")*/
 body {
-    background: #1B1B1B no-repeat center center fixed;
+    background: #1B1B1B url("bg.svg") no-repeat center center fixed;
     background-size: cover;
     height: 100%;
 }
